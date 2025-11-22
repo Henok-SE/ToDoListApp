@@ -100,4 +100,8 @@ ul li span:hover {
         margin: 50px auto 20px;
         padding: 30px 20px 60px;
     }
+    .button {
+        padding: 12px 30px;
+        font-size: 14px;
+    }
 }
